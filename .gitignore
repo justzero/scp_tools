@@ -12,3 +12,9 @@ logs
 results
 
 npm-debug.log
+
+*.swp
+
+node_modules/
+
+.DS_Store

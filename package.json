@@ -1,0 +1,11 @@
+{
+    "name": "scp-tools",
+    "version": "0.3.0",
+    "devDependencies": {
+        "async": "~0.2.6",
+        "scp2": "~0.1.2",
+        "grunt": "~0.4.1",
+        "grunt-scp": "*",
+        "grunt-contrib-watch": "*"
+    }
+}

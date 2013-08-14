@@ -1,0 +1,10 @@
+{
+    "name": "uploader",
+    "src": "../ad_load/",
+    "remote": {
+        "username": "webfront",
+        "host": "nb399x.corp.youdao.com",
+        "privateKeySrc": "/Users/ice/.ssh/id_dsa",
+        "dest": "/disk2/webfront/resin-3.0.21/webapps/ROOT/"
+    }
+}
